@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pendurkarpratik04@gmail.com**
 
-- 🏆 Link to all my certificates [Here](https://drive.google.com/drive/folders/11XJKcxoTKs3pf11TE5gUwLadMKHuRcTz?usp=share_link)**
+- 🏆 Link to all my certificates [Here](https://drive.google.com/drive/folders/11XJKcxoTKs3pf11TE5gUwLadMKHuRcTz?usp=share_link)
 
 
 <h3 align="left">Connect with me:</h3>
