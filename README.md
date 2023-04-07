@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 👯 I’m looking to collaborate on **web projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 💬 Ask me about **C++, JS, CSS, Semantic HTML, NODEJS**
 
