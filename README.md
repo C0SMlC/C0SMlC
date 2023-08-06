@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TaskMaster(RESTApi)**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
