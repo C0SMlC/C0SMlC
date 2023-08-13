@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **Semantic HTML, Responsive CSS, JavaScript, MongoDB, Express, ReactJS, NodeJS, C++, OOPS  **
+- 💬 Ask me about **Semantic HTML, Responsive CSS, JavaScript, MongoDB, Express, ReactJS, NodeJS, C++, OOPS**
 
 - 📫 How to reach me **pendurkarpratik04@gmail.com**
 
