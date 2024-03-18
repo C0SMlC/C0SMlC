@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/lnvlnclble1" target="blank"><img src="https://img.shields.io/twitter/follow/lnvlnclble1?logo=twitter&style=for-the-badge" alt="lnvlnclble1" /></a> </p>
 
-- 🔭 I’m currently working on **TaskMaster(RESTApi)**
+- 🔭 I’m currently working as Jr C++ Developer Intern**
 
 - 🌱 I’m currently learning **ReactJS**
 
